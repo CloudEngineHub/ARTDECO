@@ -1,9 +1,7 @@
 /models/
 /data/
 /src/
-**/results/
-**/Results/
-**/src/
+/results/
 .idea
 **/__pycache__
 **/__pycache__/
